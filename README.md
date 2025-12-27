@@ -1,84 +1,115 @@
+```
+    ____              ____              
+   / __ \___  _   __ / __ \____  _____  
+  / / / / _ \| | / // / / / __ \/ ___/  
+ / /_/ /  __/| |/ // /_/ / /_/ (__  )   
+/_____/\___/ |___/ \____/ .___/____/    
+                       /_/              
+```
+
+```yaml
+# 🔧 shashank.yaml - Infrastructure as Code... but for humans!
+
+apiVersion: devops/v1
+kind: Engineer
+metadata:
+  name: Shashank Pandey
+  location: India 🇮🇳
+  organization: TCS
+  
+spec:
+  role: DevOps Engineer
+  experience: "5+ years"
+  
+  currentStack:
+    cloud: ["Azure", "GCP"]
+    iac: ["Terraform", "ARM Templates"]
+    cicd: ["GitHub Actions", "Azure DevOps"]
+    containers: ["Docker", "Kubernetes"]
+    scripting: ["Python", "Bash", "PowerShell"]
+    monitoring: ["Prometheus", "Grafana"]
+    
+  currentProject:
+    name: "VM Infrastructure for IBM StreamSets"
+    tools: ["Terraform", "GitHub Actions"]
+    platforms: ["Azure", "GCP"]
+    
+  learning:
+    - "Advanced Python"
+    - "SRE Practices"
+    - "Cloud Architecture"
+    
+  contact:
+    email: pandeyshashank858@gmail.com
+    twitter: "@shashankpstwt"
+    blog: "inthecloud.hashnode.dev"
+```
+
+---
+
+<h2 align="center">⚡ Pipeline Status</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Shashank&fontColor=ffffff&desc=DevOps%20•%20Azure%20•%20Terraform%20•%20Cloud&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Deploy-Success-blue?style=for-the-badge&logo=azure-devops&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </p>
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/dev-ops-shashank?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/dev-ops-shashank?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=dev-ops-shashank&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
-
-</div>
-
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
-<div align="center">
-<p align="center" style="font-size:16px; max-width:600px;">
-💡 Passionate about <b>DevOps</b>, <b>Cloud Infrastructure</b>, and <b>Automation</b><br><br>
-✨ Building scalable solutions with Azure, Terraform & CI/CD pipelines.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,terraform,docker,kubernetes,githubactions,jenkins,python,bash,linux,git,nginx,redis,mysql,vscode&perline=8" />
 </p>
-</div>
-
-<div align="center">
-<table>
-  <tr>
-    <td>💭</td>
-    <td><b>Currently learning</b></td>
-    <td>Python & Advanced DevOps</td>
-  </tr>
-  <tr>
-    <td>🔭</td>
-    <td><b>Working at</b></td>
-    <td>TCS</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td><b>Collaborating on</b></td>
-    <td>DevOps & Cloud Projects</td>
-  </tr>
-  <tr>
-    <td>📝</td>
-    <td><b>Blog</b></td>
-    <td><a href="https://inthecloud.hashnode.dev/">inthecloud.hashnode.dev</a></td>
-  </tr>
-  <tr>
-    <td>📬</td>
-    <td><b>Contact</b></td>
-    <td><a href="mailto:pandeyshashank858@gmail.com">pandeyshashank858@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>🐦</td>
-    <td><b>Twitter/X</b></td>
-    <td><a href="https://x.com/shashankpstwt">@shashankpstwt</a></td>
-  </tr>
-</table>
-</div>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dev-ops-shashank&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dev-ops-shashank&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-ops-shashank&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ops-shashank&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ops-shashank&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ops-shashank&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
-</div>
+<h2 align="center">📊 Deployment Metrics</h2>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ops-shashank&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
+<p align="center">
+  <a href="https://github.com/dev-ops-shashank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-ops-shashank&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-ops-shashank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ops-shashank&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-ops-shashank&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</p>
 
 ---
 
-<h3 align="center">
-  🚀 Automating, Deploying, and Scaling Infrastructure.
-</h3>
+<h2 align="center">🔗 Connect</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+<p align="center">
+  <a href="https://inthecloud.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://x.com/shashankpstwt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:pandeyshashank858@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-ops-shashank&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Infrastructure+is+Code+%F0%9F%9A%80;Automate+Everything+%E2%9A%99%EF%B8%8F;Deploy+with+Confidence+%F0%9F%94%92;Keep+Learning%2C+Keep+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
+</p>
+
+```
+  _____                    _           _ 
+ |_   _|__ _ __ _ __ ___  (_)_ __   __ _| |
+   | |/ _ \ '__| '_ ` _ \ | | '_ \ / _` | |
+   | |  __/ |  | | | | | || | | | | (_| | |
+   |_|\___|_|  |_| |_| |_|/ |_| |_|\__,_|_|
+                        |__/               
+                        
+$ echo "Thanks for visiting! Let's automate something awesome together."
+$ exit 0
+```
