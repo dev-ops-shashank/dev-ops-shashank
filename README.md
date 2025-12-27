@@ -75,15 +75,11 @@ spec:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dev-ops-shashank&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=dev-ops-shashank&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-ops-shashank&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ops-shashank&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
 </p>
 
 ---
